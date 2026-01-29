@@ -11,7 +11,7 @@ This project analyzes employee working hours for compliance with company policy 
 
 ## Key Features
 - Employee working hours compliance check
-- Automated non-compliance messages
+- Automated non compliance messages
 - Sales and profit analysis
 - Interactive Excel dashboard
 - Reset button using VBA macro
